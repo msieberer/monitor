@@ -4,19 +4,19 @@
     "url": "https://mail.sieberer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/mail.sieberer.dev.ico",
     "slug": "mailcow",
-    "status": "up",
-    "uptime": "75.20%",
-    "uptimeDay": "75.20%",
-    "uptimeWeek": "75.20%",
-    "uptimeMonth": "75.20%",
-    "uptimeYear": "75.20%",
+    "status": "down",
+    "uptime": "87.28%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "87.28%",
+    "uptimeMonth": "87.28%",
+    "uptimeYear": "87.28%",
     "time": 775,
     "timeDay": 775,
     "timeWeek": 775,
     "timeMonth": 775,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2024-10-21": 17
+      "2024-10-21": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "mail.sieberer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-imap",
-    "status": "up",
-    "uptime": "73.65%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "73.65%",
-    "uptimeMonth": "73.65%",
-    "uptimeYear": "73.65%",
+    "status": "down",
+    "uptime": "88.22%",
+    "uptimeDay": "88.22%",
+    "uptimeWeek": "88.22%",
+    "uptimeMonth": "88.22%",
+    "uptimeYear": "88.22%",
     "time": 114,
     "timeDay": 114,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-10-21": 16
+      "2024-10-21": 17
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "mail.sieberer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
-    "uptime": "75.73%",
-    "uptimeDay": "75.73%",
-    "uptimeWeek": "75.73%",
-    "uptimeMonth": "75.73%",
-    "uptimeYear": "75.73%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 114,
     "timeDay": 114,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-10-21": 15
+      "2024-10-21": 0
     }
   }
 ]
