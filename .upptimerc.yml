@@ -3,6 +3,14 @@ repo: monitor
 sites: 
   - name: Mailcow
     url: https://mail.sieberer.dev
+  - name: Mailcow IMAP
+    check: "tcp-ping"
+    url: mail.sieberer.dev
+    port: 993
+  - name: Mailcow SMTP
+    check: "tcp-ping"
+    url: mail.sieberer.dev
+    port: 587
 assignees:
   - msieberer
 #status-website: # Status website (optional)
