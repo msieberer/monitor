@@ -11,6 +11,6 @@ assignees:
 status-website:
   baseUrl: monitor
   name: Your Status Website
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
+#skipDescriptionUpdate: true
+#skipTopicsUpdate: true
+#skipHomepageUpdate: true
