@@ -1,7 +1,7 @@
-url: https://mail.sieberer.dev
+url: https://$MAIL_SERVER
 status: up
 code: 200
-responseTime: 827
-lastUpdated: 2024-10-21T23:09:59.828Z
+responseTime: 756
+lastUpdated: 2024-10-22T08:07:05.267Z
 startTime: 2024-10-21T18:09:34.536Z
 generator: Upptime <https://github.com/upptime/upptime>
