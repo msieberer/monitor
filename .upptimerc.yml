@@ -1,13 +1,15 @@
 owner: msieberer
 repo: monitor
 sites: 
-  - name: Mailcow
+  - name: Mailserver
     url: https://$MAIL_SERVER
-  - name: Mailcow IMAP
+  - name: Webmail
+    url: $WEBMAIL_URL
+  - name: Mailserver IMAP
     check: "tcp-ping"
     url: $MAIL_SERVER
     port: 993
-  - name: Mailcow SMTP
+  - name: Mailserver SMTP
     check: "tcp-ping"
     url: $MAIL_SERVER
     port: 587
