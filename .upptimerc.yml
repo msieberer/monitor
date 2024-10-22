@@ -1,17 +1,20 @@
 owner: msieberer
 repo: monitor
 sites: 
-  - name: Mailserver
-    url: https://$MAIL_SERVER
   - name: Webmail
     url: $WEBMAIL_URL
+  - name: Mailserver
+    url: https://$MAIL_SERVER
+    icon: https://$MAIL_SERVER/favicon.png
   - name: Mailserver IMAP
     check: "tcp-ping"
     url: $MAIL_SERVER
+    icon: https://$MAIL_SERVER/favicon.png
     port: 993
   - name: Mailserver SMTP
     check: "tcp-ping"
     url: $MAIL_SERVER
+    icon: https://$MAIL_SERVER/favicon.png
     port: 587
 assignees:
   - msieberer
