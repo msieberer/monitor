@@ -3,7 +3,7 @@ repo: monitor
 sites: 
   #- name: Webmail
   #  url: $WEBMAIL_URL
-  - name: Mailserver
+  - name: Webmail
     url: https://$MAIL_SERVER
   - name: Mailserver SMTP
     check: "tcp-ping"
