@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 632,
-    "timeDay": 447,
-    "timeWeek": 665,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "time": 639,
+    "timeDay": 587,
+    "timeWeek": 674,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2024-11-03": 632,
+      "2024-11-03": 633,
       "2024-11-02": 1440,
       "2024-11-01": 733
     }
@@ -24,7 +24,7 @@
   {
     "name": "Mailserver SMTP",
     "url": "$MAIL_SERVER",
-    "icon": "https://$MAIL_SERVER/favicon.png",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp",
     "status": "up",
     "uptime": "99.09%",
@@ -33,8 +33,8 @@
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.09%",
     "time": 155,
-    "timeDay": 204,
-    "timeWeek": 170,
+    "timeDay": 200,
+    "timeWeek": 169,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
   {
     "name": "Mailserver IMAP",
     "url": "$MAIL_SERVER",
-    "icon": "https://$MAIL_SERVER/favicon.png",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-imap",
     "status": "up",
     "uptime": "99.09%",
@@ -53,11 +53,11 @@
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.09%",
-    "time": 120,
-    "timeDay": 114,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 122,
+    "timeDay": 119,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2024-11-03": 42,
       "2024-11-01": 115
