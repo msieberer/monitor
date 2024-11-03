@@ -8,12 +8,10 @@ sites:
   - name: Mailserver SMTP
     check: "tcp-ping"
     url: $MAIL_SERVER
-    icon: https://$MAIL_SERVER/favicon.png
     port: 587  
   - name: Mailserver IMAP
     check: "tcp-ping"
     url: $MAIL_SERVER
-    icon: https://$MAIL_SERVER/favicon.png
     port: 993
 assignees:
   - msieberer
