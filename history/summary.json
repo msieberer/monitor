@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp",
     "status": "down",
-    "uptime": "32.19%",
+    "uptime": "32.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.22%",
+    "uptimeYear": "29.07%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-11-08": 50,
+      "2025-11-09": 57,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -277,8 +278,7 @@
       "2024-11-15": 932,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 649,
-      "2024-11-09": 598
+      "2024-11-12": 649
     }
   },
   {
@@ -287,18 +287,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp-2",
     "status": "down",
-    "uptime": "3.85%",
+    "uptime": "3.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.85%",
+    "uptimeYear": "3.84%",
     "time": 119,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-11-08": 50,
+      "2025-11-09": 57,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -558,18 +559,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-imap",
     "status": "down",
-    "uptime": "32.19%",
+    "uptime": "32.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.22%",
+    "uptimeYear": "29.07%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-11-08": 50,
+      "2025-11-09": 57,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -830,8 +832,7 @@
       "2024-11-15": 933,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 647,
-      "2024-11-09": 598
+      "2024-11-12": 647
     }
   }
 ]
