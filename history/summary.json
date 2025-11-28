@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp",
     "status": "down",
-    "uptime": "30.66%",
+    "uptime": "30.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-11-27": 53,
+      "2025-11-28": 53,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -287,8 +288,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 493,
-      "2024-11-29": 1055,
-      "2024-11-28": 1440
+      "2024-11-29": 1055
     }
   },
   {
@@ -297,18 +297,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp-2",
     "status": "down",
-    "uptime": "3.59%",
+    "uptime": "3.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.59%",
+    "uptimeYear": "3.58%",
     "time": 119,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-11-27": 53,
+      "2025-11-28": 53,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -587,7 +588,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-imap",
     "status": "down",
-    "uptime": "30.66%",
+    "uptime": "30.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -598,7 +599,8 @@
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-11-27": 54,
+      "2025-11-28": 53,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -869,8 +871,7 @@
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 493,
-      "2024-11-29": 1055,
-      "2024-11-28": 1440
+      "2024-11-29": 1055
     }
   }
 ]
